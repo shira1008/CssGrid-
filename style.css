@@ -130,7 +130,7 @@ p {
 /*==================== hero==================== */
 .hero-header {
   min-height: 100vh;
-  background: linear-gradient(rgba(62, 51, 105, 0.5), rgba(175, 174, 102, 0.5)),
+  background: linear-gradient(rgba(41, 34, 70, 0.7), rgba(175, 174, 102, 0.5)),
     url(https://source.unsplash.com/500x500?purple) center/cover fixed no-repeat;
   color: var(--whiteColor);
 
